@@ -1,0 +1,305 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+allowSharing	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $allowSharing = FALSE;$/;"	language:PHP
+approved	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $approved = NULL;$/;"	language:PHP
+authenticate	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function authenticate() {$/;"	language:PHP
+auto_approve	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $auto_approve = FALSE;$/;"	language:PHP
+callbackHandler	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $callbackHandler = NULL;$/;"	language:PHP
+checkForShare	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function checkForShare() {$/;"	language:PHP
+checkValue	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function checkValue($value, $values, $reason) {$/;"	language:PHP
+checkValueType	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function checkValueType($lti_outcome, $supported_types = NULL) {$/;"	language:PHP
+CONNECTION_ERROR_MESSAGE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const CONNECTION_ERROR_MESSAGE = 'Sorry, there was an error connecting you to the application.';$/;"	language:PHP
+constraints	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $constraints = NULL;$/;"	language:PHP
+consumer	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $consumer = NULL;$/;"	language:PHP
+consumer	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $consumer = NULL;$/;"	language:PHP
+consumer	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $consumer = NULL;$/;"	language:PHP
+consumer_guid	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $consumer_guid = NULL;$/;"	language:PHP
+consumer_key	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $consumer_key = NULL;$/;"	language:PHP
+consumer_name	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $consumer_name = NULL;$/;"	language:PHP
+Consumer_Nonce_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Consumer_Nonce_load($nonce) {$/;"	language:PHP
+Consumer_Nonce_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Consumer_Nonce_load($nonce);$/;"	language:PHP
+Consumer_Nonce_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Consumer_Nonce_save($nonce) {$/;"	language:PHP
+Consumer_Nonce_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Consumer_Nonce_save($nonce);$/;"	language:PHP
+CONSUMER_TABLE_NAME	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const CONSUMER_TABLE_NAME = 'lti_consumer';$/;"	language:PHP
+consumer_version	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $consumer_version = NULL;$/;"	language:PHP
+context	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $context = NULL;$/;"	language:PHP
+context	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $context = NULL;$/;"	language:PHP
+context_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $context_id = NULL;$/;"	language:PHP
+CONTEXT_TABLE_NAME	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const CONTEXT_TABLE_NAME = 'lti_context';$/;"	language:PHP
+created	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $created = NULL;$/;"	language:PHP
+created	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $created = NULL;$/;"	language:PHP
+created	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $created = NULL;$/;"	language:PHP
+css_path	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $css_path = NULL;$/;"	language:PHP
+data_connector	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $data_connector = NULL;$/;"	language:PHP
+data_connector	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $data_connector = NULL;$/;"	language:PHP
+data_connector	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $data_connector = NULL;$/;"	language:PHP
+data_source	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $data_source = NULL;$/;"	language:PHP
+date	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $date = NULL;$/;"	language:PHP
+date_format	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected $date_format = 'Y-m-d';$/;"	language:PHP
+db	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  private $db = NULL;$/;"	language:PHP
+dbTableNamePrefix	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  private $dbTableNamePrefix = '';$/;"	language:PHP
+debugMode	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected $debugMode = FALSE;$/;"	language:PHP
+defaultEmail	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $defaultEmail = '';$/;"	language:PHP
+defaultEmail	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $defaultEmail = '';$/;"	language:PHP
+DEFAULT_SHARE_KEY_LIFE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const DEFAULT_SHARE_KEY_LIFE = 24;  \/\/ in hours$/;"	language:PHP
+delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function delete() {$/;"	language:PHP
+delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function delete() {$/;"	language:PHP
+delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function delete() {$/;"	language:PHP
+delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function delete() {$/;"	language:PHP
+details	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $details = array();$/;"	language:PHP
+doCallback	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function doCallback() {$/;"	language:PHP
+doCallbackMethod	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function doCallbackMethod($type = NULL) {$/;"	language:PHP
+documentTargets	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected $documentTargets = NULL;$/;"	language:PHP
+doLTI11Service	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function doLTI11Service($type, $url, $xml) {$/;"	language:PHP
+doMembershipsService	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function doMembershipsService($withGroups = FALSE) {$/;"	language:PHP
+domnode_to_array	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function domnode_to_array($node) {$/;"	language:PHP
+doOutcomesService	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function doOutcomesService($action, $lti_outcome, $user = NULL) {$/;"	language:PHP
+doService	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function doService($type, $url, $params) {$/;"	language:PHP
+doSettingService	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function doSettingService($action, $value = NULL) {$/;"	language:PHP
+email	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $email = '';$/;"	language:PHP
+enabled	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $enabled = FALSE;$/;"	language:PHP
+enable_from	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $enable_from = NULL;$/;"	language:PHP
+enable_until	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $enable_until = NULL;$/;"	language:PHP
+error	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $error = '';$/;"	language:PHP
+error_output	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected $error_output = NULL;$/;"	language:PHP
+execute	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function execute() {$/;"	language:PHP
+expires	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public  $expires = NULL;$/;"	language:PHP
+expires	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $expires = NULL;$/;"	language:PHP
+EXT_DELETE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_DELETE = 3;$/;"	language:PHP
+ext_doc	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $ext_doc = NULL;$/;"	language:PHP
+ext_nodes	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $ext_nodes = NULL;$/;"	language:PHP
+EXT_READ	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_READ = 1;$/;"	language:PHP
+ext_request	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $ext_request = NULL;$/;"	language:PHP
+ext_request_headers	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $ext_request_headers = NULL;$/;"	language:PHP
+ext_response	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $ext_response = NULL;$/;"	language:PHP
+ext_response_headers	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $ext_response_headers = NULL;$/;"	language:PHP
+EXT_TYPE_DECIMAL	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_TYPE_DECIMAL = 'decimal';$/;"	language:PHP
+EXT_TYPE_LETTER_AF	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_TYPE_LETTER_AF = 'letteraf';$/;"	language:PHP
+EXT_TYPE_LETTER_AF_PLUS	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_TYPE_LETTER_AF_PLUS = 'letterafplus';$/;"	language:PHP
+EXT_TYPE_PASS_FAIL	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_TYPE_PASS_FAIL = 'passfail';$/;"	language:PHP
+EXT_TYPE_PERCENTAGE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_TYPE_PERCENTAGE = 'percentage';$/;"	language:PHP
+EXT_TYPE_RATIO	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_TYPE_RATIO = 'ratio';$/;"	language:PHP
+EXT_TYPE_TEXT	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_TYPE_TEXT = 'freetext';$/;"	language:PHP
+EXT_WRITE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const EXT_WRITE = 2;$/;"	language:PHP
+firstname	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $firstname = '';$/;"	language:PHP
+fullname	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $fullname = '';$/;"	language:PHP
+getConsumer	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getConsumer() {$/;"	language:PHP
+getConsumer	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getConsumer() {$/;"	language:PHP
+getConsumers	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getConsumers() {$/;"	language:PHP
+getContext	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getContext() {$/;"	language:PHP
+getDataConnector	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getDataConnector() {$/;"	language:PHP
+getDataConnector	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  static function getDataConnector($data_connector, $db = NULL, $type = NULL) {$/;"	language:PHP
+getId	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getId($id_scope = NULL) {$/;"	language:PHP
+getId	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getId($previous = FALSE) {$/;"	language:PHP
+getId	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getId() {$/;"	language:PHP
+getIsAvailable	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getIsAvailable() {$/;"	language:PHP
+getKey	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getKey() {$/;"	language:PHP
+getKey	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getKey() {$/;"	language:PHP
+getKey	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getKey() {$/;"	language:PHP
+getRandomString	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  static function getRandomString($length = 8) {$/;"	language:PHP
+getResourceLink	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getResourceLink() {$/;"	language:PHP
+getSetting	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getSetting($name, $default = '') {$/;"	language:PHP
+getSettings	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getSettings() {$/;"	language:PHP
+getShares	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getShares() {$/;"	language:PHP
+getSourcedid	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getSourcedid() {$/;"	language:PHP
+getUserResultSourcedIDs	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getUserResultSourcedIDs($local_only = FALSE, $id_scope = NULL) {$/;"	language:PHP
+getValue	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getValue() {$/;"	language:PHP
+getValue	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function getValue() {$/;"	language:PHP
+groups	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $groups = array();$/;"	language:PHP
+groups	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $groups = NULL;$/;"	language:PHP
+group_sets	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $group_sets = NULL;$/;"	language:PHP
+handle_request	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function handle_request() {$/;"	language:PHP
+hasMembershipsService	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function hasMembershipsService() {$/;"	language:PHP
+hasOutcomesService	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function hasOutcomesService() {$/;"	language:PHP
+hasRole	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function hasRole($role) {$/;"	language:PHP
+hasSettingService	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function hasSettingService() {$/;"	language:PHP
+id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $id = NULL;$/;"	language:PHP
+id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $id = NULL;$/;"	language:PHP
+id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $id = NULL;$/;"	language:PHP
+id_scope	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $id_scope = LTI_Tool_Provider::ID_SCOPE_ID_ONLY;$/;"	language:PHP
+id_scope	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $id_scope = self::ID_SCOPE_ID_ONLY;$/;"	language:PHP
+ID_SCOPE_CONTEXT	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const ID_SCOPE_CONTEXT = 2;$/;"	language:PHP
+ID_SCOPE_GLOBAL	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const ID_SCOPE_GLOBAL = 1;$/;"	language:PHP
+ID_SCOPE_ID_ONLY	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const ID_SCOPE_ID_ONLY = 0;$/;"	language:PHP
+ID_SCOPE_RESOURCE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const ID_SCOPE_RESOURCE = 3;$/;"	language:PHP
+ID_SCOPE_SEPARATOR	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const ID_SCOPE_SEPARATOR = ':';$/;"	language:PHP
+initialise	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function initialise() {$/;"	language:PHP
+initialise	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function initialise() {$/;"	language:PHP
+initialise	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function initialise() {$/;"	language:PHP
+initialise	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function initialise() {$/;"	language:PHP
+isAdmin	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function isAdmin() {$/;"	language:PHP
+isLearner	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function isLearner() {$/;"	language:PHP
+isOK	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $isOK = TRUE;$/;"	language:PHP
+isStaff	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function isStaff() {$/;"	language:PHP
+key	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $key = NULL;$/;"	language:PHP
+language	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $language = NULL;$/;"	language:PHP
+lastname	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $lastname = '';$/;"	language:PHP
+last_access	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $last_access = NULL;$/;"	language:PHP
+length	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $length = NULL;$/;"	language:PHP
+life	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $life = NULL;  \/\/ in hours$/;"	language:PHP
+load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function load($key, $autoEnable = FALSE) {$/;"	language:PHP
+load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function load() {$/;"	language:PHP
+load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function load() {$/;"	language:PHP
+load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function load() {$/;"	language:PHP
+load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function load() {$/;"	language:PHP
+lookup_consumer	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function lookup_consumer($consumer_key) {$/;"	language:PHP
+lookup_nonce	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function lookup_nonce($consumer, $token, $value, $timestamp) {$/;"	language:PHP
+lookup_token	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function lookup_token($consumer, $token_type, $token) {$/;"	language:PHP
+Lti	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^<?php$/;"	language:PHP
+Lti	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^<?php$/;"	language:PHP
+LTI_Consumer_Nonce	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Consumer_Nonce {$/;"	language:PHP
+LTI_Content_Item	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Content_Item {$/;"	language:PHP
+LTI_Content_Item_Image	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Content_Item_Image {$/;"	language:PHP
+LTI_Content_Item_Placement	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Content_Item_Placement {$/;"	language:PHP
+LTI_Context	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Context extends LTI_Resource_Link {$/;"	language:PHP
+lti_context_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $lti_context_id = NULL;$/;"	language:PHP
+LTI_Context_Share	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Context_Share extends LTI_Resource_Link_Share {$/;"	language:PHP
+LTI_Context_Share_Key	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Context_Share_Key extends LTI_Resource_Link_Share_Key {$/;"	language:PHP
+LTI_Data_Connector	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^abstract class LTI_Data_Connector {$/;"	language:PHP
+LTI_Data_Connector_PDO	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^class LTI_Data_Connector_PDO extends LTI_Data_Connector {$/;"	language:PHP
+LTI_HTTP_Message	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_HTTP_Message {$/;"	language:PHP
+LTI_LINK_MEDIA_TYPE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const LTI_LINK_MEDIA_TYPE = 'application\/vnd.ims.lti.v1.ltilink';$/;"	language:PHP
+LTI_OAuthDataStore	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_OAuthDataStore extends OAuthDataStore {$/;"	language:PHP
+LTI_Outcome	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Outcome {$/;"	language:PHP
+lti_resource_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $lti_resource_id = NULL;$/;"	language:PHP
+LTI_Resource_Link	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Resource_Link {$/;"	language:PHP
+LTI_Resource_Link_Share	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Resource_Link_Share {$/;"	language:PHP
+LTI_Resource_Link_Share_Key	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Resource_Link_Share_Key {$/;"	language:PHP
+lti_result_sourcedid	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $lti_result_sourcedid = NULL;$/;"	language:PHP
+lti_settings_names	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $lti_settings_names = array('ext_resource_link_content', 'ext_resource_link_content_signature',$/;"	language:PHP
+LTI_Tool_Consumer	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Tool_Consumer {$/;"	language:PHP
+LTI_Tool_Provider	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_Tool_Provider {$/;"	language:PHP
+LTI_User	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^class LTI_User {$/;"	language:PHP
+LTI_VERSION	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const LTI_VERSION = 'LTI-1p0';$/;"	language:PHP
+lti_version	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $lti_version = NULL;$/;"	language:PHP
+LTI_VERSION1	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const LTI_VERSION1 = 'LTI-1p0';$/;"	language:PHP
+LTI_VERSION2	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const LTI_VERSION2 = 'LTI-2p0';$/;"	language:PHP
+LTI_VERSIONS	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $LTI_VERSIONS = array(self::LTI_VERSION1, self::LTI_VERSION2);$/;"	language:PHP
+MAX_NONCE_AGE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const MAX_NONCE_AGE = 30;  \/\/ in minutes$/;"	language:PHP
+MAX_SHARE_KEY_LENGTH	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const MAX_SHARE_KEY_LENGTH = 32;$/;"	language:PHP
+MAX_SHARE_KEY_LIFE	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const MAX_SHARE_KEY_LIFE = 168;  \/\/ in hours (1 week)$/;"	language:PHP
+mediaTypes	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected $mediaTypes = NULL;$/;"	language:PHP
+message	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $message = self::CONNECTION_ERROR_MESSAGE;$/;"	language:PHP
+messageTypes	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $messageTypes = array('basic-lti-launch-request' => 'launch',$/;"	language:PHP
+method	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $method = NULL;$/;"	language:PHP
+methodNames	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $methodNames = array('basic-lti-launch-request' => 'onLaunch',$/;"	language:PHP
+MIN_SHARE_KEY_LENGTH	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const MIN_SHARE_KEY_LENGTH = 5;$/;"	language:PHP
+name	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $name = NULL;$/;"	language:PHP
+new_access_token	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function new_access_token($token, $consumer, $verifier = NULL) {$/;"	language:PHP
+new_request_token	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function new_request_token($consumer, $callback = NULL) {$/;"	language:PHP
+NONCE_TABLE_NAME	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const NONCE_TABLE_NAME = 'lti_nonce';$/;"	language:PHP
+onConfigure	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected function onConfigure() {$/;"	language:PHP
+onContentItem	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected function onContentItem() {$/;"	language:PHP
+onDashboard	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected function onDashboard() {$/;"	language:PHP
+onError	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected function onError() {$/;"	language:PHP
+onLaunch	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected function onLaunch() {$/;"	language:PHP
+output	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected $output = NULL;$/;"	language:PHP
+parseRoles	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public static function parseRoles($rolesString) {$/;"	language:PHP
+previous_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $previous_id = NULL;$/;"	language:PHP
+primary_consumer_key	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $primary_consumer_key = NULL;$/;"	language:PHP
+primary_consumer_key	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $primary_consumer_key = NULL;$/;"	language:PHP
+primary_context_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $primary_context_id = NULL;$/;"	language:PHP
+primary_context_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $primary_context_id = NULL;$/;"	language:PHP
+primary_resource_link_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $primary_resource_link_id = NULL;$/;"	language:PHP
+primary_resource_link_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $primary_resource_link_id = NULL;$/;"	language:PHP
+protected	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $protected = FALSE;$/;"	language:PHP
+quoted	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  static function quoted($value, $addQuotes = TRUE) {$/;"	language:PHP
+reason	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $reason = NULL;$/;"	language:PHP
+redirectURL	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected $redirectURL = NULL;$/;"	language:PHP
+request	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $request = NULL;$/;"	language:PHP
+request_headers	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $request_headers = '';$/;"	language:PHP
+resource_link	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $resource_link = NULL;$/;"	language:PHP
+resource_link	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $resource_link = NULL;$/;"	language:PHP
+Resource_Link_delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Resource_Link_delete($resource_link) {$/;"	language:PHP
+Resource_Link_delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Resource_Link_delete($resource_link);$/;"	language:PHP
+Resource_Link_getShares	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Resource_Link_getShares($resource_link) {$/;"	language:PHP
+Resource_Link_getShares	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Resource_Link_getShares($resource_link);$/;"	language:PHP
+Resource_Link_getUserResultSourcedIDs	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Resource_Link_getUserResultSourcedIDs($resource_link, $local_only, $id_scope) {$/;"	language:PHP
+Resource_Link_getUserResultSourcedIDs	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Resource_Link_getUserResultSourcedIDs($resource_link, $local_only, $id_scope);$/;"	language:PHP
+resource_link_id	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $resource_link_id = NULL;$/;"	language:PHP
+Resource_Link_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Resource_Link_load($resource_link) {$/;"	language:PHP
+Resource_Link_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Resource_Link_load($resource_link);$/;"	language:PHP
+Resource_Link_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Resource_Link_save($resource_link) {$/;"	language:PHP
+Resource_Link_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Resource_Link_save($resource_link);$/;"	language:PHP
+Resource_Link_Share_Key_delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Resource_Link_Share_Key_delete($share_key) {$/;"	language:PHP
+Resource_Link_Share_Key_delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Resource_Link_Share_Key_delete($share_key);$/;"	language:PHP
+Resource_Link_Share_Key_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Resource_Link_Share_Key_load($share_key) {$/;"	language:PHP
+Resource_Link_Share_Key_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Resource_Link_Share_Key_load($share_key);$/;"	language:PHP
+Resource_Link_Share_Key_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Resource_Link_Share_Key_save($share_key) {$/;"	language:PHP
+Resource_Link_Share_Key_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Resource_Link_Share_Key_save($share_key);$/;"	language:PHP
+RESOURCE_LINK_SHARE_KEY_TABLE_NAME	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const RESOURCE_LINK_SHARE_KEY_TABLE_NAME = 'lti_share_key';$/;"	language:PHP
+RESOURCE_LINK_TABLE_NAME	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const RESOURCE_LINK_TABLE_NAME = 'lti_context';$/;"	language:PHP
+response	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $response = NULL;$/;"	language:PHP
+response_headers	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $response_headers = '';$/;"	language:PHP
+result	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private function result() {$/;"	language:PHP
+return_url	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $return_url = NULL;$/;"	language:PHP
+roles	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $roles = array();$/;"	language:PHP
+save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function save() {$/;"	language:PHP
+save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function save() {$/;"	language:PHP
+save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function save() {$/;"	language:PHP
+save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function save() {$/;"	language:PHP
+save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function save() {$/;"	language:PHP
+saveSettings	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function saveSettings() {$/;"	language:PHP
+secret	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $secret = NULL;$/;"	language:PHP
+send	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function send() {$/;"	language:PHP
+sendForm	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public static function sendForm($url, $params, $target = '') {$/;"	language:PHP
+setEmail	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setEmail($email, $defaultEmail = NULL) {$/;"	language:PHP
+setMediaType	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setMediaType($mediaType) {$/;"	language:PHP
+setNames	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setNames($firstname, $lastname, $fullname) {$/;"	language:PHP
+setParameterConstraint	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setParameterConstraint($name, $required = TRUE, $max_length = NULL, $message_types = NULL) {$/;"	language:PHP
+setSetting	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setSetting($name, $value = NULL) {$/;"	language:PHP
+setText	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setText($text) {$/;"	language:PHP
+settings	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $settings = NULL;$/;"	language:PHP
+settings_changed	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $settings_changed = FALSE;$/;"	language:PHP
+setTitle	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setTitle($title) {$/;"	language:PHP
+setUrl	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setUrl($url) {$/;"	language:PHP
+setValue	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function setValue($value) {$/;"	language:PHP
+share_approved	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $share_approved = NULL;$/;"	language:PHP
+signParameters	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function signParameters($url, $type, $version, $params) {$/;"	language:PHP
+sourcedid	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $sourcedid = NULL;$/;"	language:PHP
+status	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $status = 0;$/;"	language:PHP
+status	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $status = NULL;$/;"	language:PHP
+time_format	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  protected $time_format = 'H:i:s';$/;"	language:PHP
+title	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $title = NULL;$/;"	language:PHP
+title	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $title = NULL;$/;"	language:PHP
+toJson	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public static function toJson($items) {$/;"	language:PHP
+Tool_Consumer_delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Tool_Consumer_delete($consumer) {$/;"	language:PHP
+Tool_Consumer_delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Tool_Consumer_delete($consumer);$/;"	language:PHP
+Tool_Consumer_list	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Tool_Consumer_list() {$/;"	language:PHP
+Tool_Consumer_list	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Tool_Consumer_list();$/;"	language:PHP
+Tool_Consumer_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Tool_Consumer_load($consumer) {$/;"	language:PHP
+Tool_Consumer_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Tool_Consumer_load($consumer);$/;"	language:PHP
+Tool_Consumer_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function Tool_Consumer_save($consumer) {$/;"	language:PHP
+Tool_Consumer_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function Tool_Consumer_save($consumer);$/;"	language:PHP
+tool_provider	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $tool_provider = NULL;$/;"	language:PHP
+type	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $type = NULL;$/;"	language:PHP
+updated	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $updated = NULL;$/;"	language:PHP
+updated	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $updated = NULL;$/;"	language:PHP
+updated	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $updated = NULL;$/;"	language:PHP
+url	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $url = NULL;$/;"	language:PHP
+user	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public $user = NULL;$/;"	language:PHP
+User_delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function User_delete($user) {$/;"	language:PHP
+User_delete	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function User_delete($user);$/;"	language:PHP
+User_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function User_load($user) {$/;"	language:PHP
+User_load	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function User_load($user);$/;"	language:PHP
+User_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  public function User_save($user) {$/;"	language:PHP
+User_save	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  abstract public function User_save($user);$/;"	language:PHP
+USER_TABLE_NAME	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  const USER_TABLE_NAME = 'lti_user';$/;"	language:PHP
+value	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $value = NULL;$/;"	language:PHP
+value	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  private $value = NULL;$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Data_Connector_pdo.php	/^  function __construct($db, $dbTableNamePrefix = '') {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function __construct($data_connector = '', $callbackHandler = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function __construct($displayWidth, $displayHeight, $documentTarget, $windowTarget) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function __construct($id, $height = NULL, $width = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function __construct($type, $placementAdvice = NULL, $id = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  function __construct($url, $method = 'GET', $params = NULL, $header = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($consumer, $id) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($consumer, $id, $current_id = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($consumer, $value = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($key = NULL, $data_connector = '', $autoEnable = FALSE) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($resource_link, $id = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($resource_link, $id = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($resource_link, $id) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($sourcedid = NULL, $value = NULL) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct($tool_provider) {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct() {$/;"	language:PHP
+__construct	/home/rafael/Documentos/monografia-node.js/Projeto Video Interativo/www/laravel/app/LTI/LTI_Tool_Provider.php	/^  public function __construct() {$/;"	language:PHP
